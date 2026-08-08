@@ -137,6 +137,7 @@ Intelligent support system that understands customer queries and automatically e
 </table>
 <div align="center">
   <hr width="70%" style="border: 1px solid #0969DA;">
+  
 
   <h2>📊 GitHub Contributions <i>(building consistently)</i></h2>
 
@@ -144,19 +145,6 @@ Intelligent support system that understands customer queries and automatically e
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shokinw&show_icons=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=FFFFFF&bg_color=00000000" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shokinw&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&background=00000000" height="170"/>
-
-  <br><br>
-
-  <hr width="70%" style="border: 1px solid #0969DA;">
-</div>
-
-<!-- CONNECT SECTION -->
-<div align="center">
-
-  <hr width="70%" style="border: 1px solid #0969DA;">
 
   <h1>🌐 Let's Connect</h1>
 
