@@ -129,454 +129,98 @@ Intelligent support system that understands customer queries and automatically e
 
 <td width="25%" align="center">
 
-<img src="./assets/flame.png" width="180"/>
+<img src="image-removebg-preview (1).png" width="180"/>
 
 </td>
 
 </tr>
 </table>
+<div align="center">
+  <hr width="70%" style="border: 1px solid #0969DA;">
 
+  <h2>📊 GitHub Contributions <i>(building consistently)</i></h2>
 
-## 🤖 Artificial Intelligence
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shokinw&bg_color=00000000&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true" width="95%"/>
 
-🧠 Machine Learning
+  <br><br>
 
-📚 Deep Learning
+  <img src="https://github-readme-stats.vercel.app/api?username=shokinw&show_icons=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=FFFFFF&bg_color=00000000" height="170"/>
 
-✨ Generative AI
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shokinw&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&background=00000000" height="170"/>
 
-🔎 RAG Systems
+  <br><br>
 
-🤖 AI Agents
+  <hr width="70%" style="border: 1px solid #0969DA;">
+</div>
 
-
-</td>
-
-
-<td align="center" width="33%">
-
-
-## 💻 Development
-
-⚛ React
-
-🟢 Node.js
-
-🚀 FastAPI
-
-🗄 Databases
-
-🔌 REST APIs
-
-🐳 Docker
-
-
-</td>
-
-
-<td align="center" width="33%">
-
-
-## 🎨 Creativity
-
-🎨 UI Design
-
-🖌 Figma
-
-⚡ Automation
-
-📱 Product Thinking
-
-💡 Innovation
-
-
-</td>
-
-
-</tr>
-
-</table>
-
-
-
----
-
-
-<h1 align="center">🌱 Currently Exploring</h1>
-
-
+<!-- CONNECT SECTION -->
 <div align="center">
 
+  <hr width="70%" style="border: 1px solid #0969DA;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=800&color=89CFF0&center=true&width=600&lines=Building+AI+Agents+🤖;Learning+LLM+Applications+🧠;Exploring+MLOps+⚡;Designing+Better+User+Experiences+✨"/>
+  <h1>🌐 Let's Connect</h1>
 
+  <p>
+    <i>I'm always open to connecting, collaborating, and building something meaningful.</i>
+  </p>
+
+  <br>
+
+  <a href="https://github.com/shokinw">
+    <img src="https://img.shields.io/badge/GitHub-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:samridhivvv221@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0969DA?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-0969DA?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <br><br>
+
+  <p>
+    💙 <b>AI • Machine Learning • Full Stack • Automation</b>
+  </p>
+
+  <br>
+
+  <hr width="70%" style="border: 1px solid #0969DA;">
 
 </div>
 
 
-
----
-
-<h1 align="center">🎯 Developer Journey</h1>
-
-
+<!-- THANK YOU SECTION -->
 <div align="center">
 
+  <h1>⭐ Thanks For Visiting</h1>
 
-<table>
+  <img src="./assets/image-removebg-preview (4).png" width="230"/>
 
+  <br><br>
 
-<tr>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=0969DA&center=true&width=500&lines=Keep+Building+🚀;Keep+Learning+🧠;Keep+Creating+✨"/>
 
-<td>
 
+  <i>If you found my projects interesting, feel free to ⭐ star them!</i>
 
-🌱 <b>2024</b>
+  <br><br>
 
-<br>
+  <img src="https://komarev.com/ghpvc/?username=shokinw&style=for-the-badge&color=0969DA"/>
 
-Started exploring:
+  <br><br>
 
-- Python
-- AI/ML Fundamentals
-- Programming Concepts
-
-
-</td>
-
-
-<td>
-
-
-🚀 <b>2025</b>
-
-<br>
-
-Built:
-
-- Full Stack Applications
-- APIs
-- Database Projects
-
-
-</td>
-
-
-<td>
-
-
-🤖 <b>2026</b>
-
-<br>
-
-Building:
-
-- AI Applications
-- RAG Systems
-- Intelligent Agents
-
-
-</td>
-
-
-</tr>
-
-
-</table>
-
-
-</div>
-
-
-
----
-
-
-<h1 align="center">📊 GitHub Analytics</h1>
-
-
-<div align="center">
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shokinw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shokinw&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokinw&layout=donut&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
-
----
-
-
-<h1 align="center">🏆 Developer Achievements</h1>
-
-
-<div align="center">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=shokinw&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-
-</div>
-
-
-
----
-
-
-<h1 align="center">📈 Coding Activity</h1>
-
-
-<div align="center">
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shokinw&theme=tokyo-night&hide_border=true"/>
-
-
-</div>
-
-
-
----
-
-
-<h1 align="center">🐍 My Contribution Snake</h1>
-
-
-<div align="center">
-
-
-<img src="https://raw.githubusercontent.com/shokinw/shokinw/output/github-contribution-grid-snake.svg"/>
-
-
-</div>
-
-
-
----
-
-
-<h1 align="center">💻 Coding Mindset</h1>
-
-
-<div align="center">
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-
-</div>
----
-
-<h1 align="center">💼 Professional Experience</h1>
-
-
-<table>
-
-<tr>
-
-<td bgcolor="#E8F5FF">
-
-
-<h2>🏢 Bluestock Fintech</h2>
-
-
-<b>Software Development Engineer Intern</b>
-
-
-Worked on improving backend systems and building scalable application features.
-
-
-✨ Contributions:
-
-✔ Refactored backend modules for better maintainability  
-✔ Developed REST APIs for application workflows  
-✔ Improved code quality and system organization  
-✔ Worked with software development practices  
-
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td bgcolor="#F5F0FF">
-
-
-<h2>🏛 Ministry of Panchayati Raj Internship</h2>
-
-
-<b>Technology & Development Intern</b>
-
-
-Worked on digital initiatives and understanding technology solutions for community development.
-
-
-✨ Experience:
-
-✔ Data analysis and documentation  
-✔ Understanding real-world technology implementation  
-✔ SDG-focused project exposure  
-
-
-</td>
-
-</tr>
-
-
-</table>
-
-
-
----
-
-
-<h1 align="center">🌟 What Makes Me Different?</h1>
-
-
-<div align="center">
-
-
-<table>
-
-
-<tr>
-
-
-<td align="center" width="25%">
-
-
-🚀
-
-<br>
-
-<b>Builder</b>
-
-<br>
-
-I don't just learn technology, I create products.
-
-
-</td>
-
-
-
-<td align="center" width="25%">
-
-
-🧠
-
-<br>
-
-<b>AI Explorer</b>
-
-<br>
-
-Always experimenting with intelligent systems.
-
-
-</td>
-
-
-
-<td align="center" width="25%">
-
-
-
-<td align="center" width="25%">
-
-
-
-<h1 align="center">🌐 Let's Connect</h1>
-
-
-<div align="center">
-
-
-<a href="https://github.com/shokinw">
-
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-</a>
-
-
-
-<a href="https://www.linkedin.com/in/YOUR-LINK">
-
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-
-</a>
-
-
-
-<a href="mailto:samridhivvv221@gmail.com">
-
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-
-</a>
-
-
-
-<a href="YOUR_RESUME_LINK">
-
-
-<img src="https://img.shields.io/badge/Resume-89CFF0?style=for-the-badge&logo=readthedocs&logoColor=black"/>
-
-
-</a>
-
-
-</div>
-
-
-<h1 align="center">⭐ Thanks For Visiting</h1>
-
-
-<div align="center">
-
-
-<img src="./assets/image-removebg-preview (4).png" width="250"/>
-
-
-<br><br>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=89CFF0&center=true&width=500&lines=Keep+Building+🚀;Keep+Learning+🧠;Keep+Creating+✨"/>
-
-
-<br>
-
-
-⭐ If my projects helped you, consider giving them a star!
-
-
-<br><br>
-
-
-<img src="https://komarev.com/ghpvc/?username=shokinw&style=for-the-badge&color=89CFF0"/>
-
+  <p>
+    <b>Made with 💙 by Samridhi Sharma</b>
+  </p>
 
 </div>
