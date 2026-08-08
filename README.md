@@ -138,12 +138,33 @@ Intelligent support system that understands customer queries and automatically e
 <div align="center">
   <hr width="70%" style="border: 1px solid #0969DA;">
   
+<br><br>
 
-  <h2>📊 GitHub Contributions <i>(building consistently)</i></h2>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shokinw&theme=github_dark"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shokinw&theme=github_dark&utcOffset=5.5"
+    width="48%"
+  />
+</p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shokinw&bg_color=00000000&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true" width="95%"/>
+<br>
 
-  <br><br>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shokinw&theme=github_dark"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shokinw&theme=github_dark"
+    width="48%"
+  />
+</p>
+
+<br>
 
 
   <h1>🌐 Let's Connect</h1>
@@ -192,23 +213,4 @@ Intelligent support system that understands customer queries and automatically e
 
   <h1>⭐ Thanks For Visiting</h1>
 
-  <img src="./assets/image-removebg-preview (4).png" width="230"/>
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=0969DA&center=true&width=500&lines=Keep+Building+🚀;Keep+Learning+🧠;Keep+Creating+✨"/>
-
-
-  <i>If you found my projects interesting, feel free to ⭐ star them!</i>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=shokinw&style=for-the-badge&color=0969DA"/>
-
-  <br><br>
-
-  <p>
-    <b>Made with 💙 by Samridhi Sharma</b>
-  </p>
-
-</div>
+  <img src="image-removebg-preview (1).png" width="230"/>
