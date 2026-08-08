@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/bd849554bedb1c67f1c88a068808a05e.webp" width="90%"/>
+<img src="bd849554bedb1c67f1c88a068808a05e.webp" width="90%"/>
 
 <br><br>
 
@@ -20,74 +20,34 @@
 <br>
 
 
-<div align="center">
 
-### 🌸 Welcome to my Digital Playground 🌸
-
-```
-💡 Ideas → 🧠 AI → 💻 Code → 🚀 Real Products
-```
-
-</div>
 
 
 ---
-
-<h1 align="center">👩‍💻 About Me</h1>
-
+<h2 align="center">🧠 Know About Me</h2>
 
 <table>
 <tr>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-
-<img src="./assets/image-removebg-preview (5).png" width="350"/>
-
+<img src="image-removebg-preview (4).png" width="220"/>
 
 </td>
 
+<td width="60%">
 
-<td width="65%">
+<h3>Hey there! I'm Samridhi Sharma 👋</h3>
 
+I'm a <b>Computer Science Engineering student</b> passionate about
+building intelligent and useful software.
 
-<h3 align="center">
+I enjoy working at the intersection of:
 
-Hey! I'm Samridhi Sharma 👋
-
-</h3>
-
-
-🎓 Computer Science Engineering Student  
-🤖 AI & Machine Learning Developer  
-💻 Full Stack Developer  
-
-
-I build applications where:
-
-✨ AI meets creativity  
-✨ Data becomes intelligence  
-✨ Ideas become real products  
-
-
-My playground includes:
-
-
-🧠 Generative AI  
-🔎 RAG Systems  
-🤖 AI Agents  
-🌐 Full Stack Development  
-⚡ Automation Workflows  
-
-
-Currently exploring:
-
-- Large Language Models (LLMs)
-- AI Agents
-- Production AI Systems
-- Backend Architecture
-- Cloud Deployment
-
+🤖 <b>Artificial Intelligence</b><br>
+🌐 <b>Full Stack Development</b><br>
+⚡ <b>Automation</b><br>
+📊 <b>Data & Intelligent Systems</b>
 
 </td>
 
@@ -95,173 +55,86 @@ Currently exploring:
 </table>
 
 
----
-
-
-<h1 align="center">⚡ Developer Identity</h1>
-
-
-```yaml
-👩‍💻 Developer:
-
-Name:
-  Samridhi Sharma
-
-
-Role:
-  AI Developer
-  Full Stack Developer
-
-
-Education:
-  B.Tech Computer Science Engineering
-
-
-Superpowers:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - Web Development
-  - Problem Solving
-
-
-Currently Building:
-  🚀 AI Agents
-  🚀 RAG Applications
-  🚀 Intelligent Automation
-
-
-Languages:
-  🐍 Python
-  ⚡ C++
-  🌐 JavaScript
-  🗄 SQL
-
-
-Developer Motto:
-
-"Build. Break. Learn. Improve. Repeat 🚀"
-```
-
 
 ---
+<h2 align="center">⚡ Top Projects <i>(built to solve real problems)</i></h2>
 
-<h1 align="center">🚀 Featured Projects</h1>
+<table>
+<tr>
 
+<td width="75%">
 
 <table>
 
-
+<!-- Smart Delivery -->
 <tr>
+<td width="35%">
 
-<td bgcolor="#DDEBFF">
-
-
-<h2>🚚 Smart Delivery Route Optimizer</h2>
-
-
-A full-stack logistics optimization platform that finds shortest delivery routes using **Dijkstra Algorithm**.
-
-
-✨ Features:
-
-🚚 Smart route calculation  
-🗺 Interactive maps  
-📍 Location management  
-⚡ Graph algorithm implementation  
-
-
-🔗 GitHub:
-
-https://github.com/shokinw/Smart-Delivery-Route-Optimizer
-
+<a href="https://github.com/shokinw/Smart-Delivery-Route-Optimizer">
+<img src="https://img.shields.io/badge/Smart_Delivery-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
+<td>
+
+<b>Smart Delivery Route Optimizer</b><br>
+Full-stack logistics platform that finds shortest delivery routes using Dijkstra's Algorithm.
+
+</td>
 </tr>
 
 
-
+<!-- AI Research Assistant -->
 <tr>
+<td width="35%">
 
-<td bgcolor="#E8F5FF">
-
-
-<h2>🤖 Autonomous AI Research Assistant</h2>
-
-
-AI research assistant powered by **RAG + LangChain + LLM Agents**.
-
-
-✨ Features:
-
-🧠 Document intelligence  
-🔎 Semantic search  
-🤖 AI Agent workflow  
-📚 Automated summarization  
-
-
-🔗 GitHub:
-
-https://github.com/shokinw/Autonomous-AI-Research-Assistant-using-RAG-AI-Agents
-
+<a href="https://github.com/shokinw/Autonomous-AI-Research-Assistant-using-RAG-AI-Agents">
+<img src="https://img.shields.io/badge/AI_Research_Assistant-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
+<td>
+
+<b>AI Research Assistant</b><br>
+RAG-powered research assistant using LangChain and LLM Agents for document intelligence and semantic search.
+
+</td>
 </tr>
 
 
+<!-- AI Support Escalator -->
 <tr>
+<td width="35%">
 
-<td bgcolor="#F0FAFF">
-
-
-<h2>💬 AI Customer Support Escalator</h2>
-
-
-Intelligent support system that understands customer queries and escalates complex problems.
-
-
-✨ Features:
-
-💬 NLP classification  
-🤖 LLM responses  
-⚡ Automated workflow  
-
-
-🔗 GitHub:
-
-https://github.com/shokinw/AI-Customer-Support-Escalator
-
+<a href="https://github.com/shokinw/AI-Customer-Support-Escalator">
+<img src="https://img.shields.io/badge/AI_Support_Escalator-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-</tr>
+<td>
 
+<b>AI Customer Support Escalator</b><br>
+Intelligent support system that understands customer queries and automatically escalates complex problems.
+
+</td>
+</tr>
 
 </table>
----
 
-<h1 align="center">🛠️ My Tech Universe</h1>
-
-
-<div align="center">
+</td>
 
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,fastapi,docker,git,github,html,css,tailwind,tensorflow,pytorch,figma,vscode&perline=10"/>
+<td width="25%" align="center">
 
+<img src="./assets/flame.png" width="180"/>
 
-</div>
+</td>
 
-
-<br>
-
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
+</tr>
+</table>
 
 
 ## 🤖 Artificial Intelligence
